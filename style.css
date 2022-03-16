@@ -1,0 +1,25 @@
+#banner {
+    background-color: limegreen;
+    height: 200px;
+    text-align: center;
+} /*banner*/
+h1 {
+    margin: 0px;
+    line-height: 200px;
+}/*tamanho do banner*/
+body {
+    margin: 0px;
+    background-color: rgb(214, 245, 214);
+} /* cor do corpo */
+
+li {
+    padding: 10px;
+    display: inline;
+} /* alinhar a nav bar e organizar em uma linha unica */
+#navBar {
+    text-align: center;
+}
+a {
+    text-decoration: none;
+    color: darkgreen;
+} /*cor da navbar */
